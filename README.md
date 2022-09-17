@@ -5,7 +5,7 @@
 
 ## Запуск:
 1) добавить в проект библиотеку [PortIndexes.jar](out/PortIndexes.jar)
-2) или запустить методы из терминала командой: -jar out/PortIndexes.jar
+2) или запуск из терминала: -jar out/PortIndexes.jar
 
 <p align="left">
 
