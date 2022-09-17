@@ -7,7 +7,7 @@ import java.util.List;
 
 public class Port {
 
-    // Метод переводит строку в список чисел
+    // Метод переводит строку в лист чисел
     // "1,3,4,5" -> [1,3,4,5]
     public static List<Integer> stringToListInt(String str) {
         String[] tmpArray = str.split(",");
