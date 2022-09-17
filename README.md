@@ -4,7 +4,7 @@
 + [Индексация](description.md)
 
 ## Запуск:
-1) добавить в проект библиотеку [PortIndexes.jar](out/PortIndexes.jar)
+1) добавить в проект библиотеку [PortIndexes.jar](out/PortIndexes.jar), лежащую в папке /out корня проекта
 2) или запуск из терминала: -jar out/PortIndexes.jar
 
 <p align="left">
